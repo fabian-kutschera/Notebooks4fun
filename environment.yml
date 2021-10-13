@@ -1,0 +1,9 @@
+name: Notebooks4fun
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - geopandas
+  - seaborn
